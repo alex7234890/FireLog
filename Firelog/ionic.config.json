@@ -1,0 +1,7 @@
+{
+  "name": "Firelog",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
